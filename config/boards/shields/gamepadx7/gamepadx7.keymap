@@ -20,8 +20,7 @@ ht: hold-tap {
         compatible = "zmk,keymap";
         default_layer {
             bindings = <
-                &bt BT_CLEAR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3
-                &bt BT_SEL 4 &kp PSCRN
+                &bt BT_CLEAR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4 &kp PSCRN
                 &kp A &kp S &kp D &kp F &kp G &kp H &kp J 
                 &kp Z &kp X &kp C &kp V &kp B &kp N &kp M
                 &kp 1 &kp 2 &kp 3 &kp 4 &kp 5 &kp 6 &kp 7
