@@ -24,7 +24,7 @@ ht: hold-tap {
                 &kp A &kp S &kp D &kp F &kp G &kp H &kp J 
                 &kp Z &kp X &kp C &kp V &kp B &kp N &kp M
                 &kp 1 &kp 2 &kp 3 &kp 4 &kp 5 &kp 6 &kp 7
-                &kp 8 &kp 9 &kp 0 &kp - &kp = &kp + &kp SPACE
+                &kp 8 &kp 9 &kp 0 &kp 1 &kp 2 &kp 3 &kp SPACE
                 >;
         };
     };
